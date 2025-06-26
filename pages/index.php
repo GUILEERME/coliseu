@@ -11,6 +11,15 @@
     include('../includes/menu.php');
     ?>
 
+    <div class="container-index">
+        <div class="container-destaque">
+            <div class="evento-destaque">
+                <img src="../img/torneiobrawl.png" alt="">
+            </div>
+            <div class="evento-destaque"></div>
+            <div class="evento-destaque"></div>
+        </div>
+    </div>
     
 </body>
 </html>
