@@ -9,7 +9,7 @@
 <body>
     <div class="menu">
         <ul class="menu">
-            <a href=""> Login </a>
+            <a href="../pages/cadastro.php"> Login </a>
             <li> <a href="torneios.php"> Torneios </a>  </li>
             <li> <a href="criarTorneio.php">Criar</a>  </li>
         </ul>
