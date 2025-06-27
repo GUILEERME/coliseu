@@ -98,7 +98,10 @@ body {
     margin-top: 20px;
 }
 
-.form-cadastro button {
+.botao-cadastrar  {
     display: block;
     margin-top: 20px;
+    background-color: #1C1A17;
+    color: #F5F5F5;
+    border-radius: 15px;
 }
